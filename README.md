@@ -1,6 +1,6 @@
-# cse478_dependencies
+# ee545_dependencies
 
-Holds references to the versions of MuSHR dependencies required for the Spring 2021 offering of CSE478. These references are in the form of Git submodules pointing at commits on as-yet unmerged branches of the official MuSHR code.
+Holds references to the versions of MuSHR dependencies required for the Autumn 2024 offering of EE545. These references are in the form of Git submodules pointing at commits on as-yet unmerged branches of the official MuSHR code.
 
 ## Usage
 
